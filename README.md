@@ -17,7 +17,7 @@ This project showcases a data cleaning workflow using MySQL with a dataset taken
 4. Dropped unnecessary rows/columns
 
 ## 📄 SQL Scripts
-SQL queries used in this project are available in the `sql_scripts/` folder.
+SQL queries used in this project are available in the `sql_script/` folder.
 
 ## ✅ Outcome
 Cleaned dataset is now ready for analysis or visualization.
